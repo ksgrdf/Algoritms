@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 
-public class Brackets {
+public class CombinationOfBrackets {
 
     public static void main(String[] args) throws IOException
     {
